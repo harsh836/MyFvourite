@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: 'New Tegomin', serif;
+    background-color: linear-gradient (#000670 0%, #b8bbf2 100%);
+    backrond-repeat: no-repeat;
+
+}
+
+img {
+    width: 850px;
+}
+
+#para {
+    background-color: #1DE9B6;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+}
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 9px;
+    
+}
+.menu:hover {
+  color: dimgray;
+}
+html {
+    scroll-behavior: smooth;
+}
